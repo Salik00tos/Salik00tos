@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👋 Hi, I'm Salih
+
+A curious Computer Science student who enjoys building things that solve real problems.  
+I like exploring new technologies, experimenting with ideas, and learning by creating.  
+Always improving—one commit at a time.
 
 <!--
 **Salik00tos/Salik00tos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
